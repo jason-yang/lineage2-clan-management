@@ -1,0 +1,15 @@
+{
+  "name": "lineage2-clan-management",
+  "version": "0.1.0",
+  "description": "Lineage 2 clan management system",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jason Yang",
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "license": "ISC"
+}
